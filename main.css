@@ -1,0 +1,138 @@
+.aside {
+  padding-left: 25px;
+  padding-top: 100px;
+  padding-right: 25px;
+  padding-left: 50px;
+  text-align: justify;
+  display: flex;
+flex-direction: row;
+
+}
+
+
+
+
+.thirdstory {
+  padding-left: 25px;
+  padding-top: 200px;
+  padding-right: 25px;
+  padding-left: 50px;
+  text-align: justify;
+  display: flex;
+flex-direction: row;
+}
+
+
+
+.laststory {
+
+  padding-left: 25px;
+  padding-top: 200px;
+  padding-right: 25px;
+  padding-left: 50px;
+  text-align: justify;
+  display: flex;
+flex-direction: row;
+}
+
+
+body {
+  background-color: white;
+}
+
+body {
+  margin: 50;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+[class*=site-content] {
+justify-content: space-around;
+  padding: 15px;
+
+}
+.header {
+  text-align: center;
+  background-color:gold;
+  color: #black;
+  padding: 50px;
+}
+
+
+
+.main-story{
+  padding-left: 25px;
+  font-size: 18;
+  display: flex;
+  align-content: flex-end;
+  padding-right: 25px;
+padding: 15px;
+font-family: sans-serif;
+
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+display: inline-grid;
+
+}
+
+/* Style the topnav links */
+.topnav a {
+  align-items: center;
+  display: block;
+  color: gold;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: green;
+  color: black;
+}
+
+
+html {
+  font-family:sans-serif;
+}
+
+.menu ul {
+  margin: 0px;
+  padding: 0px;
+  }
+
+
+
+
+h1 {
+  font-family: sans-serif;
+  background-color:gold;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  font-family: sans-serif;
+  color:gold;
+  text-align: center;
+  background-color: black;
+}
+
+p {
+  text-align:center;
+  font-family: times;
+  font-size: 20px;
+}
